@@ -1,7 +1,21 @@
 ## Project Overview
 
-This project involved building an interactive Power BI dashboard to analyze sales and customer behavior. The goal was to transform raw sales data into meaningful insights that could be used to better understand customer and business performance.
+This project involved building an interactive **Power BI dashboard** to analyze sales performance and customer behavior. The goal was to transform raw sales data into meaningful insights that could help identify trends and understand overall business performance.
 
-Raw CSV data was cleaned and transformed using Power Query to prepare the data for analysis. I created DAX measures and calculated metrics to evaluate revenue, orders, and customer performance.
+### Data Preparation
 
-The final dashboard uses interactive visualizations, filters, and slicers to explore trends and compare customer segments. Key analysis included top customers, revenue per customer, orders by income level and occupation, and customer activity over time.
+Raw CSV data was cleaned and transformed using **Power Query**. This included preparing the data for analysis and ensuring it was structured properly for the dashboard.
+
+### Analysis & Visualization
+
+I created **DAX measures** to analyze revenue, orders, and customer performance. The final dashboard uses interactive visualizations, filters, and slicers to explore:
+
+* Top customers by revenue
+* Revenue per customer
+* Orders by income level and occupation
+* Customer activity and trends over time
+* Overall sales performance
+
+### Tools Used
+
+**Power BI | Power Query | DAX | Data Cleaning | Data Analysis | Data Visualization**
